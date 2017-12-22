@@ -1,5 +1,12 @@
 # django-core
 
-# INSTALLATION
+### INSTALLATION
 
-`pip install django-core-waili`
+- Run `pip install django-core-waili`
+
+- Install app
+```python
+INSTALLED_APPS = [
+    'django-core-waili',
+]
+```
